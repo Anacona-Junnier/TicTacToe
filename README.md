@@ -6,3 +6,4 @@ el primero que cumpla el objetivo gana.
 # Una breve imagen del funcionamiento a continuación: 
 ! [] (https://github.com/Anacona-Junnier/TicTacToe/blob/main/Juego%20tres%20lineas.png)
 
+! [] (https://github.com/Anacona-Junnier/TicTacToe/blob/main/Juego%20tres%20lineas.png)
